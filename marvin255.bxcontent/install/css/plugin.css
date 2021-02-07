@@ -1,0 +1,110 @@
+.marvin255bxcontent-selector-block select,
+.marvin255bxcontent-selector-block button {
+    height: 2em;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 1em 0 0;
+}
+
+.marvin255bxcontent-selector-block select {
+    width: 300px;
+}
+
+
+.marvin255bxcontent-snippets-snippet {
+    margin: 0 0 1em;
+    border: 2px solid #e0e8ea;
+    border-radius: 10px;
+    position: relative;
+}
+.marvin255bxcontent-snippets-snippet:hover {
+    border: 2px solid #a3a5a5;
+}
+.marvin255bxcontent-snippets-snippet-remove,
+.marvin255bxcontent-snippets-snippet-move button {
+    line-height: 1;
+    height: 20px;
+    display: block;
+    float: left;
+}
+.marvin255bxcontent-snippets-snippet-remove {
+    position: absolute;
+    right: 0.8em;
+    top: 0.8em;
+}
+.marvin255bxcontent-snippets-snippet-move {
+    position: absolute;
+    right: 10em;
+    top: 0.8em;
+}
+.marvin255bxcontent-snippets-snippet-header {
+    color: #000;
+    padding: 1em 1em 0;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0 0 1em;
+}
+
+
+.marvin255bxcontent-snippets-snippet-controls-control {
+    border-top: 2px solid #e0e8ea;
+    padding: 1em;
+}
+.marvin255bxcontent-snippets-snippet-controls-control input[type=text] {
+    width: 80%;
+    height: 2em;
+}
+.marvin255bxcontent-snippets-snippet-controls-control textarea {
+    width: 80%;
+    height: 6em;
+}
+.marvin255bxcontent-snippets-snippet-controls-control select {
+    width: 40%;
+}
+.marvin255bxcontent-snippets-snippet:hover .marvin255bxcontent-snippets-snippet-controls-control {
+    border-top: 2px solid #a3a5a5;
+}
+.marvin255bxcontent-snippets-snippet-multiple-items,
+.marvin255bxcontent-snippets-snippet-controls-control-label {
+    margin: 0 0 1em;
+}
+.marvin255bxcontent-snippets-snippet-multiple-items-item {
+    padding: 1em 0;
+    border-bottom: 2px solid #e0e8ea;
+    position: relative;
+}
+.marvin255bxcontent-snippets-snippet-multiple-items-item:first-child {
+    border-top: 2px solid #e0e8ea;
+}
+.marvin255bxcontent-snippets-snippet-multiple-items-delete {
+    position: absolute;
+    top: 0.5em;
+    right: 0;
+}
+
+.marvin255bxcontent-snippets-snippet-combine-item-label {
+    margin: 0 0 0.5em;
+}
+
+.marvin255bxcontent-snippets-snippet-combine-item {
+    margin: 0 0 1em;
+}
+
+.marvin255bxcontent-snippets-snippet-combine-item:last-child {
+    margin-bottom: 0;
+}
+
+.marvin255bxcontent-control-file-bitrix input[type=text] {
+    width: 50%;
+    margin-right: 3%;
+}
+.marvin255bxcontent-control-file-bitrix button {
+    width: 27%;
+    height: 2em;
+}
+.marvin255bxcontent-control-file-bitrix img {
+    display: block;
+    margin: 0.7em 0 0;
+    max-width: 100%;
+    max-height: 420px;
+}
